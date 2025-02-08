@@ -1,0 +1,18 @@
+## Title: Ranckors Gallery
+## APIVersion: 101045
+## Version: 1.0.0
+## AddonVersion: 1.0.0
+## Author: |c4B8BFERanckor90|r
+## Description: Track & view your collection of Paintings, Banners, Literature, Maps, Music Boxes, & Tapestries.
+## SavedVariables: RanckorsGallerySavedVars
+
+modules/Strings.lua
+modules/Colors.lua
+RanckorsGallery.lua
+
+
+## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
+## The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries.
+## All rights reserved.
+##
+## You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
