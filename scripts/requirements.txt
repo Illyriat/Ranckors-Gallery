@@ -1,0 +1,4 @@
+openyxl
+requests
+bs4
+time
